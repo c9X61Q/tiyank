@@ -1187,10 +1187,17 @@ Tab:AddParagraph("QB脚本作者（至少能让我UI可拖动了）")
 Tab:AddParagraph("青脚本作者（提供技术支持）")
 Tab:AddParagraph("之前风（加密）")
 Tab:AddParagraph("金钱焊机（代更新和爬取鸭子源码）")
+Tab:AddParagraph("冬凌所有群友(以及凌波城 允许代更新缝合)")
 Tab:AddButton({
 	Name = "点击复制代跟新qq",
 	Callback = function()
 	setclipboard("647478884")
+	end
+})
+Tab:AddButton({
+	Name = "点击复制冬凌一群群号",
+	Callback = function()
+	setclipboard("982730887")
 	end
 })
 Tab:AddButton({
