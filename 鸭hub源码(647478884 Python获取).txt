@@ -501,7 +501,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "凌新月(暂时无用)",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/dr2Wd9hQ"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/c9X61Q/tiyank/main/%E6%88%91%E4%BB%AC%E5%96%9C%E6%AC%A2%E5%90%83%E5%A4%A7%E4%BE%BF.lua"))()
 	end
 })
 Tab:AddButton({
