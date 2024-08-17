@@ -499,7 +499,7 @@ Tab:AddButton({
 	end
 })
 Tab:AddButton({
-	Name = "凌新月(暂时无用)",
+	Name = "凌新月(可执行)",
 	Callback = function()
 	local message = "已经找到可执行脚本 不外传 想要请加1211373508"
 
